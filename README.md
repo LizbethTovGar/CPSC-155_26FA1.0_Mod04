@@ -2,7 +2,7 @@
 ---  
 ## Congratulations CPSC-155 Students!
   
-### Instructor: Nikhila Parimi
+### Instructor: Alan Tucker
 
 ### Students:
 * Sam Stoodent
